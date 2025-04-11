@@ -1,0 +1,7 @@
+D:\Prova Jane\prefeitura\prefeitura\bin\Debug\prefeitura.exe.config
+D:\Prova Jane\prefeitura\prefeitura\bin\Debug\prefeitura.exe
+D:\Prova Jane\prefeitura\prefeitura\bin\Debug\prefeitura.pdb
+D:\Prova Jane\prefeitura\prefeitura\obj\Debug\prefeitura.csproj.AssemblyReference.cache
+D:\Prova Jane\prefeitura\prefeitura\obj\Debug\prefeitura.csproj.CoreCompileInputs.cache
+D:\Prova Jane\prefeitura\prefeitura\obj\Debug\prefeitura.exe
+D:\Prova Jane\prefeitura\prefeitura\obj\Debug\prefeitura.pdb
